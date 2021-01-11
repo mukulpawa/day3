@@ -1,0 +1,21 @@
+h4+ul+p{
+    color: rgb(150, 67, 81);
+}
+a[href="google.com"]{
+    color: hotpink;
+}
+
+*{
+    color: lightgreen;
+}
+
+h1,h2,h3,h4,h5{
+    color: red;
+}
+
+/*dependent selector*/ 
+
+div p a {
+    background-color: red;
+    color: blueviolet;
+}
